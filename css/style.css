@@ -943,6 +943,9 @@ a.header_logo {
     flex-wrap: wrap;
     align-items: center;
 }
+.footer_menu_right ul li a.inquiry:after {
+    display: none;
+}
 .footer_menu_right ul li a.inquiry:hover {
     background-color: #f90b22;
     color: #ffffff;
